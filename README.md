@@ -1,3 +1,5 @@
+[![Build and Deploy Pages](https://github.com/fastplotlib/fastplotlib-neuro.github.io/actions/workflows/pages.yaml/badge.svg?branch=main)](https://github.com/fastplotlib/fastplotlib-neuro.github.io/actions/workflows/pages.yaml)
+
 # fastplotlib-neuro.github.io
 Homepage for visualizations associated with fastplotlib for neuroscience paper
 
