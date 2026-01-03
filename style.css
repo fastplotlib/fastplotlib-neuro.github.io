@@ -153,8 +153,10 @@ main .quad-text {
 }
 
 .image-item img {
-  width: 180px; /* ← change this number */
-  height: auto;
+  height: 20vh; /* relative to viewport */
+  max-height: 180px;
+  width: auto;
+  object-fit: contain;
 }
 
 .image-item .caption {
