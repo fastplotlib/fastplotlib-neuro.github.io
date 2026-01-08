@@ -146,6 +146,12 @@ main .grid {
   opacity: 1;
 }
 
+.grid-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
 /* Homepage Description */
 main .quad-text {
   margin-top: 8px;
